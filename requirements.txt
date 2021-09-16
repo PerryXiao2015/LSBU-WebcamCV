@@ -2,10 +2,6 @@ streamlit
 opencv-python
 numpy
 pandas
-time
 tensorflow
 keras
 matplotlib
-random
-os
-types
