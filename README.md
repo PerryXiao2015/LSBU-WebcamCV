@@ -2,7 +2,7 @@
 A streamlit App to show live webcam video and functions for processing the image
 
 Profesorr Perry Xiao<br>
-Copyright (a) 2020 London Soutn Bank University
+Copyright (a) 2021 London Soutn Bank University
 
 Launch the web app:
 
