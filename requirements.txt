@@ -1,0 +1,11 @@
+streamlit
+cv2 
+numpy
+pandas
+time
+tensorflow
+keras
+matplotlib
+random
+os
+types
